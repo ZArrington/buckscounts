@@ -20,10 +20,12 @@ nav{
   align-items:center;
   margin-bottom:1rem;
   font-size:2rem
+  
 
 }
 nav >h1{
     color:white;
+    margin-left:-5em
 }
 
 header{
