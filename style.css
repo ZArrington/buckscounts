@@ -29,7 +29,7 @@ nav >h1{
 header{
   display:flex;
   justify-content:flex-start;
-  margin-left:6.5em;
+  margin-left:6.4em;
   margin-top: -2.5em;
 }
 
@@ -40,6 +40,25 @@ label{
   align-items:center;
   margin-bottom:1rem;
   background-color:#f2f0eb;
-  width:85%;
+  width: 84.5%;
   padding:1em;
+}
+
+.city-list {
+  
+ border: 1px solid #d4e9e2;
+ width: 76.5%;
+ margin-left:6.4em;
+}
+
+.city-item {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: .3em;
+  background-color:#00754a;
+  margin-bottom: .6em;
+  margin-top: .8em;
+  margin-left: .8em;
+  height: 1.8em;
 }
